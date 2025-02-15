@@ -61,4 +61,10 @@
     };
 };
 
+/ {
+    chosen {
+        zephyr,bt-device-name = "Roba2";
+    };
+};
+
 
