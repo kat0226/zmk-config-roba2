@@ -14,3 +14,9 @@
 &left_encoder {
     status = "okay";
 };
+
+/ {
+    chosen {
+        zephyr,bt-device-name = "Roba2_L";
+    };
+};
